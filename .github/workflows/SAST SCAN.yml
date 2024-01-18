@@ -1,4 +1,4 @@
-name: SAST SCAN
+name: SAST SCAN using Sonarcloud account
 on: push
 
 jobs:
